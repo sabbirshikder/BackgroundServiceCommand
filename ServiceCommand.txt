@@ -1,0 +1,9 @@
+Open powershell Administrator Mode 
+
+sc.exe create QRCODEREADER binpath="D:\Scanner Device\Publish\HTTPSERVER.exe"
+
+
+For Service Delete 
+
+ sc.exe delete HTTServer
+
