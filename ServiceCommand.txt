@@ -7,3 +7,4 @@ For Service Delete
 
  sc.exe delete HTTServer
 
+sc.exe description HTTServer "Create background service using .net core 6/7"
